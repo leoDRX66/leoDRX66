@@ -1,9 +1,9 @@
 <img width="100%" alt="banner-perfil" src="https://github.com/user-attachments/assets/3d27fc84-c0db-4188-acfc-ffa4fdd70476" />
-<h1 align="center">¡Hola! Soy Leandro Olarte Salinas 👋</h1>
-<h3 align="center">Desarrollador Full Stack Jr. | Java · JavaScript · React · SQL</h3>
+<h1 align="center">¡Hola! Soy Leandro Olarte 👋</h1>
+<h3 align="center">Desarrollador | Java · Python · React · SQL</h3>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-olarte-salinas">
+  <a href="https://www.linkedin.com/in/leandro-olarte">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leaolartesalin@gmail.com">
@@ -14,20 +14,20 @@
 ---
  
 ### 🚀 Sobre mí
- 
+
 - 🎓 Cursando la **Tecnicatura Universitaria en Desarrollo de Software** (UNCUYO — ITU)
-- 💼 Formé un equipo de 3 devs que llevó un **e-commerce full-stack** a producción en 16 sprints de Scrum
-- 🔄 Vengo de **Ingeniería Industrial** — eso me dejó una cabeza orientada a procesos, optimización y pensamiento analítico
+- 💼 Formé un equipo con distintos devs para la creación de un **e-commerce full-stack** llevado a producción mediante la metodología ágil de Scrum
+- 🔄 Vengo de estudiar **Ingeniería Industrial**, formación que me dejó orientado a procesos, optimización y pensamiento analítico
 - 🧠 Aprendo rápido y de forma autodidacta: en menos de 2 años pasé de cero a shippear proyectos full-stack completos
-- 🎯 Buscando mi primera oportunidad como **Desarrollador Jr.** para seguir creciendo dentro de un equipo
+- 🎯 Mi objetivo final es posicionarme como **Project Manager**, aplicando mis conocimientos, herramientas y metodologías
 ---
- 
+
 ### 📫 ¿Charlamos?
- 
-Estoy buscando activamente mi primera posición como desarrollador. Si tenés una oportunidad, una devolución sobre mi código, o simplemente querés conectar:
+
+Estoy buscando activamente propuestas laborales como desarrollador. Si tenés una oportunidad, una devolución sobre mi código, o simplemente querés conectar:
  
 <p align="left">
-  <a href="https://www.linkedin.com/in/leandro-olarte-salinas">
+  <a href="https://www.linkedin.com/in/leandro-olarte">
     <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leaolartesalin@gmail.com">
