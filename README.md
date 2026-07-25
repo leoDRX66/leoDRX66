@@ -13,7 +13,7 @@
 </p>
 ---
  
-### 🚀 Sobre mí
+### 💬 Sobre mí
 
 - 🎓 Cursando la **Tecnicatura Universitaria en Desarrollo de Software** (UNCUYO — ITU)
 - 💼 Formé un equipo con distintos devs para la creación de un **e-commerce full-stack** llevado a producción mediante la metodología ágil de Scrum
@@ -24,7 +24,7 @@
 
 ### 📫 ¿Charlamos?
 
-Estoy buscando activamente propuestas laborales como desarrollador. Si tenés una oportunidad, una devolución sobre mi código, o simplemente querés conectar:
+Estoy buscando activamente propuestas laborales como desarrollador. Si tenés una oportunidad, una devolución sobre mi código, o simplemente quirés contactarme:
  
 <p align="left">
   <a href="https://www.linkedin.com/in/leandro-olarte">
