@@ -1,5 +1,5 @@
 <img width="600" height="600" alt="banner-perfil" src="https://github.com/user-attachments/assets/6f148639-793c-4e2d-aca4-fd7b52ed2804" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=leoDRX66&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117">
 
 ## Hi there 👋
 
