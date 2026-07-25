@@ -1,5 +1,5 @@
 <img width="100%" alt="banner-perfil" src="https://github.com/user-attachments/assets/3d27fc84-c0db-4188-acfc-ffa4fdd70476" />
-<h1 align="center">¡Hola! Soy Leandro Olarte 👋</h1>
+<h1 align="center">¡Hola! Soy Leandro 👋</h1>
 <h3 align="center">Desarrollador | Java · Python · React · SQL</h3>
  
 <p align="center">
@@ -11,6 +11,7 @@
   </a>
   <img src="https://img.shields.io/badge/Mendoza,_Argentina-4B4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
+
 ---
  
 ### 💬 Sobre mí
